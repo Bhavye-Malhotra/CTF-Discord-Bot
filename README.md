@@ -1,9 +1,9 @@
-<img src="https://imgur.com/a/pLMYJma"/>
+<img src="werewolf.jpg"/>
 
 >### *A [discord.py](http://discordpy.readthedocs.io/en/latest/) bot focused on providing CTF tools for collaboration in Discord servers (ctftime.org commands, team setup, utilites, etc)!  If you have a feature request, make it a GitHub issue or use the >request "x" command.*
 
 [Invite to your server](https://discordapp.com/api/oauth2/authorize?client_id=688958016447447057&permissions=2100817008&scope=bot)
-\
+
 
 #  How to Use
 >This bot has commands for encoding/decoding, ciphers, and other commonly accessed tools during CTFs.  But, the main use for NullCTF is to easily set up a CTF for your discord server to play as a team.  The following commands listed are probably going to be used the most.
