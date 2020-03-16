@@ -5,8 +5,6 @@ sys.path.append(os.getcwd() + '/..')
 
 import auth
 
-
-
 client = MongoClient(auth.conn)
 ctfdb = client['ctftime'] # Create ctftime database
 ctfs = ctfdb['ctfs'] # Create ctfs collection
