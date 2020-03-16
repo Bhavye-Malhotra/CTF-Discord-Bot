@@ -1,0 +1,5 @@
+wWerewolf.pyc
+ctf.pyc
+__pycache__/
+cogs/__pycache__/
+auth.py
