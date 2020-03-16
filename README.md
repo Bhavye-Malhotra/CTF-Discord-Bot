@@ -57,8 +57,6 @@
 
 * `>cointoss` Get a 50/50 cointoss to make all your life's decisions.
 
-* `>request/report "a feature"/"a bug"` Dm's the creator (nullpxl#3928) with your feature/bug  request/report.
-
 * `>help` Returns the help page
 
 
