@@ -1,6 +1,6 @@
 <img src="werewolf.jpg"/>
 
->### *A [discord.py](http://discordpy.readthedocs.io/en/latest/) bot focused on providing CTF tools for collaboration in Discord servers (ctftime.org commands, team setup, utilites, etc)!  If you have a feature request, make it a GitHub issue or use the >request "x" command.*
+>### *A [discord.py](http://discordpy.readthedocs.io/en/latest/) bot focused on providing CTF tools for collaboration in Discord servers (ctftime.org commands, team setup, utilites, etc)!  If you have a feature request, make it a GitHub issue.*
 
 [Invite to your server](https://discordapp.com/api/oauth2/authorize?client_id=688958016447447057&permissions=2100817008&scope=bot)
 
